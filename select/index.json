@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "You Make Me (Avicii By Avicii)",
+  "base_artist": "Avicii",
+  "createdAt": "2026-03-19T02:10:54.293916Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You Make Me (Avicii By Avicii)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/01_You_Make_Me_(Avicii_By_Avicii)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Make Me (Avicii By Avicii)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/02_You_Make_Me_(Avicii_By_Avicii)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Make Me (Avicii By Avicii)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/03_You_Make_Me_(Avicii_By_Avicii)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You Make Me (Avicii By Avicii)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/04_You_Make_Me_(Avicii_By_Avicii)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You Make Me - Avicii By Avicii",
+      "artist": "Avicii, Tim Bergling",
+      "has_synced": true,
+      "path": "select/05_You_Make_Me_-_Avicii_By_Avicii_Avicii,_Tim_Bergling.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Make Me - Avicii By Avicii",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/06_You_Make_Me_-_Avicii_By_Avicii_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Make Me (Avicii by Avicii)",
+      "artist": "Avicii",
+      "has_synced": false,
+      "path": "select/07_You_Make_Me_(Avicii_by_Avicii)_Avicii.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Make Me (Avicii by Avicii)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/08_You_Make_Me_(Avicii_by_Avicii)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You Make Me [Avicii by Avicii Remix]",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/09_You_Make_Me_[Avicii_by_Avicii_Remix]_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Make Me [Avicii by Avicii Remix]",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/10_You_Make_Me_[Avicii_by_Avicii_Remix]_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Make Me - Avicii By Avicii",
+      "artist": "Avicii/Tim Bergling",
+      "has_synced": true,
+      "path": "select/11_You_Make_Me_-_Avicii_By_Avicii_Avicii_Tim_Bergling.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You Make Me (Avicii By Avicii)",
+      "artist": "Avicii -",
+      "has_synced": true,
+      "path": "select/12_You_Make_Me_(Avicii_By_Avicii)_Avicii_-.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "You Make Me (Avicii By Avicii)",
+      "artist": "Avicii Feat. Salem Al Fakir",
+      "has_synced": true,
+      "path": "select/13_You_Make_Me_(Avicii_By_Avicii)_Avicii_Feat._Salem_Al_Fakir.lrc"
+    }
+  ]
+}
